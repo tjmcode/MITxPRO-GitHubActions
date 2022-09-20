@@ -3,6 +3,6 @@ describe("Test Hello", () =>
 {
     test("works", () =>
     {
-        expect(hello.hello()).toEqual("Hello World");
+        expect(hello.hello()).toEqual("Hello Happy World!");
     });
 });
